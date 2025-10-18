@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 We evaluate our Midi-Tuning framework on two datasets: [LIGHT](https://aclanthology.org/D19-1062.pdf), which is a character-based dialogue dataset, and [TopDial](https://aclanthology.org/2023.emnlp-main.72.pdf), which is a target-oriented proactive
 dialogue dataset. The datasets can be downloaded from the following links:
-- LIGHT ([OneDrive](https://connectpolyu-my.sharepoint.com/:u:/g/personal/21037774r_connect_polyu_hk/EVvR5GMWJlxFjUpAXuJJ8hcBkZ_BwV3Iz2GFYWJv1uAobQ?e=A1P05h))
+- LIGHT ([GoogleDrive](https://drive.google.com/file/d/1BcGAgZwAam2zFWWvQ8CDfBGxj3RBU0Hr/view?usp=sharing))
 - TopDial ([GitHub](https://github.com/iwangjian/TopDial))
 
 *Note*: For custom datasets, you can refer to the `data/dummy_data.json` for the data format.
